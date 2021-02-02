@@ -1,34 +1,32 @@
-# generated using pymatgen
-data_C
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   3.56969056
-_cell_length_b   3.56969056
-_cell_length_c   5.69082078
-_cell_angle_alpha   102.79868492
-_cell_angle_beta   102.79868492
-_cell_angle_gamma   107.07861948
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   C
-_chemical_formula_sum   C8
-_cell_volume   64.32238415
-_cell_formula_units_Z   8
+data_image0
+_cell_length_a       3.43204
+_cell_length_b       3.43204
+_cell_length_c       5.88233
+_cell_angle_alpha    102.428
+_cell_angle_beta     102.428
+_cell_angle_gamma    105.206
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
 loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
 loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  C  C1  1  0.089913  0.160849  -0.120643  1
-  C  C2  1  0.222901  0.293836  0.145332  1
-  C  C3  1  0.000094  0.467121  0.289207  1
-  C  C4  1  0.241352  0.812288  0.512344  1
-  C  C5  1  0.916628  0.383656  0.735483  1
-  C  C6  1  0.119324  0.794167  0.735483  1
-  C  C7  1  0.571464  0.142398  0.512344  1
-  C  C8  1  0.589582  0.264425  0.289207  1
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  C1       1.0000 0.09431  0.16525  0.88816  Biso   1.000  C
+  C2       1.0000 0.21850  0.28944  0.13653  Biso   1.000  C
+  C3       1.0000 0.00644  0.47617  0.29387  Biso   1.000  C
+  C4       1.0000 0.23319  0.80412  0.51234  Biso   1.000  C
+  C5       1.0000 0.90758  0.37731  0.73082  Biso   1.000  C
+  C6       1.0000 0.12370  0.79585  0.73082  Biso   1.000  C
+  C7       1.0000 0.57963  0.15056  0.51234  Biso   1.000  C
+  C8       1.0000 0.58790  0.26005  0.29387  Biso   1.000  C

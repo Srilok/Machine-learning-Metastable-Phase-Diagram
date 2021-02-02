@@ -1,32 +1,30 @@
-# generated using pymatgen
-data_C
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   2.48865797
-_cell_length_b   4.03765626
-_cell_length_c   4.13163032
-_cell_angle_alpha   115.95678284
-_cell_angle_beta   90.20332777
-_cell_angle_gamma   100.22613777
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   C
-_chemical_formula_sum   C6
-_cell_volume   36.57991399
-_cell_formula_units_Z   6
+data_image0
+_cell_length_a       2.59307
+_cell_length_b       4.24767
+_cell_length_c       4.16846
+_cell_angle_alpha    119.383
+_cell_angle_beta     89.9997
+_cell_angle_gamma    107.773
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
 loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
 loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  C  C1  1  0.328432  0.622435  0.300831  1
-  C  C2  1  0.258564  0.606876  0.631904  1
-  C  C3  1  0.528037  0.017856  -0.004508  1
-  C  C4  1  0.054630  0.211782  0.935895  1
-  C  C5  1  0.521842  0.021181  0.352124  1
-  C  C6  1  0.063209  0.209727  0.579384  1
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  C1       1.0000 0.29237  0.61498  0.30317  Biso   1.000  C
+  C2       1.0000 0.29254  0.61497  0.62870  Biso   1.000  C
+  C3       1.0000 0.48630  0.00258  0.97540  Biso   1.000  C
+  C4       1.0000 0.09861  0.22738  0.95647  Biso   1.000  C
+  C5       1.0000 0.48619  0.00257  0.34407  Biso   1.000  C
+  C6       1.0000 0.09871  0.22739  0.58781  Biso   1.000  C

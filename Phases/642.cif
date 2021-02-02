@@ -1,34 +1,32 @@
-# generated using pymatgen
-data_C
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   3.53652839
-_cell_length_b   3.76623572
-_cell_length_c   5.75241100
-_cell_angle_alpha   89.99999999
-_cell_angle_beta   89.99999999
-_cell_angle_gamma   118.00213006
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   C
-_chemical_formula_sum   C8
-_cell_volume   67.64892462
-_cell_formula_units_Z   8
+data_image0
+_cell_length_a       3.14644
+_cell_length_b       3.76323
+_cell_length_c       5.82309
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    114.712
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
 loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
 loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  C  C1  1  0.372354  0.394909  0.743806  1
-  C  C2  1  0.372354  0.394909  0.501548  1
-  C  C3  1  0.321833  0.054676  0.891127  1
-  C  C4  1  0.422875  0.735144  0.891127  1
-  C  C5  1  0.662067  0.735144  0.354227  1
-  C  C6  1  0.082641  0.054676  0.354227  1
-  C  C7  1  0.262894  0.175989  0.122678  1
-  C  C8  1  0.481815  0.613832  0.122678  1
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  C1       1.0000 0.37235  0.39491  0.74233  Biso   1.000  C
+  C2       1.0000 0.37235  0.39491  0.50303  Biso   1.000  C
+  C3       1.0000 0.31213  0.05975  0.89291  Biso   1.000  C
+  C4       1.0000 0.43257  0.73007  0.89291  Biso   1.000  C
+  C5       1.0000 0.64729  0.73007  0.35244  Biso   1.000  C
+  C6       1.0000 0.09741  0.05975  0.35244  Biso   1.000  C
+  C7       1.0000 0.27244  0.19508  0.12268  Biso   1.000  C
+  C8       1.0000 0.47227  0.59474  0.12268  Biso   1.000  C

@@ -1,38 +1,36 @@
-# generated using pymatgen
-data_C
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   3.37569843
-_cell_length_b   4.75647676
-_cell_length_c   6.73209786
-_cell_angle_alpha   85.32543629
-_cell_angle_beta   104.51992559
-_cell_angle_gamma   108.96874677
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   C
-_chemical_formula_sum   C12
-_cell_volume   98.95859198
-_cell_formula_units_Z   12
+data_image0
+_cell_length_a       3.2715
+_cell_length_b       4.78312
+_cell_length_c       6.71312
+_cell_angle_alpha    85.6884
+_cell_angle_beta     104.103
+_cell_angle_gamma    107.971
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
 loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
 loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  C  C1  1  0.526858  0.291676  0.269701  1
-  C  C2  1  0.332566  0.464628  0.124589  1
-  C  C3  1  0.405122  0.964628  0.269701  1
-  C  C4  1  0.454302  0.791676  0.124589  1
-  C  C5  1  0.116241  0.628152  0.570203  1
-  C  C6  1  0.368009  0.872090  0.477129  1
-  C  C7  1  0.634253  0.128151  0.606227  1
-  C  C8  1  0.771400  0.384211  0.477129  1
-  C  C9  1  0.491416  0.884211  0.917161  1
-  C  C10  1  0.743183  0.128151  0.824087  1
-  C  C11  1  0.225171  0.628152  0.788063  1
-  C  C12  1  0.088026  0.372090  0.917161  1
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  C1       1.0000 0.52619  0.29294  0.26857  Biso   1.000  C
+  C2       1.0000 0.33324  0.46336  0.12572  Biso   1.000  C
+  C3       1.0000 0.40466  0.96336  0.26857  Biso   1.000  C
+  C4       1.0000 0.45476  0.79294  0.12572  Biso   1.000  C
+  C5       1.0000 0.11604  0.62815  0.56980  Biso   1.000  C
+  C6       1.0000 0.35593  0.88201  0.47844  Biso   1.000  C
+  C7       1.0000 0.63284  0.12815  0.60339  Biso   1.000  C
+  C8       1.0000 0.78479  0.37429  0.47844  Biso   1.000  C
+  C9       1.0000 0.50350  0.87429  0.91585  Biso   1.000  C
+  C10      1.0000 0.74339  0.12815  0.82449  Biso   1.000  C
+  C11      1.0000 0.22659  0.62815  0.79090  Biso   1.000  C
+  C12      1.0000 0.07464  0.38201  0.91585  Biso   1.000  C

@@ -1,34 +1,32 @@
-# generated using pymatgen
-data_C
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   3.65085001
-_cell_length_b   3.99346662
-_cell_length_c   4.84877257
-_cell_angle_alpha   102.22688743
-_cell_angle_beta   103.43610276
-_cell_angle_gamma   101.73092700
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   C
-_chemical_formula_sum   C8
-_cell_volume   64.78373618
-_cell_formula_units_Z   8
+data_image0
+_cell_length_a       3.17799
+_cell_length_b       4.46061
+_cell_length_c       4.79075
+_cell_angle_alpha    101.215
+_cell_angle_beta     101.185
+_cell_angle_gamma    103.624
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
 loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
 loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  C  C1  1  0.456528  0.686343  0.121348  1
-  C  C2  1  0.569091  0.049534  0.121808  1
-  C  C3  1  0.714973  0.316918  0.389896  1
-  C  C4  1  0.555151  0.608665  0.391756  1
-  C  C5  1  0.918411  0.292434  0.655139  1
-  C  C6  1  0.540264  0.118919  0.821551  1
-  C  C7  1  0.467270  0.739085  0.641110  1
-  C  C8  1  0.339051  0.427457  0.816715  1
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  C1       1.0000 0.46994  0.71105  0.12283  Biso   1.000  C
+  C2       1.0000 0.61516  0.04109  0.12185  Biso   1.000  C
+  C3       1.0000 0.67042  0.29610  0.37404  Biso   1.000  C
+  C4       1.0000 0.52805  0.57687  0.36867  Biso   1.000  C
+  C5       1.0000 0.87817  0.29068  0.68839  Biso   1.000  C
+  C6       1.0000 0.65397  0.04844  0.81695  Biso   1.000  C
+  C7       1.0000 0.47418  0.73762  0.64689  Biso   1.000  C
+  C8       1.0000 0.27086  0.53750  0.81969  Biso   1.000  C

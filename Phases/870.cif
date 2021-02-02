@@ -1,34 +1,32 @@
-# generated using pymatgen
-data_C
-_symmetry_space_group_name_H-M   'P 1'
-_cell_length_a   3.74042587
-_cell_length_b   4.63314257
-_cell_length_c   4.56391340
-_cell_angle_alpha   71.88142253
-_cell_angle_beta   75.56427172
-_cell_angle_gamma   61.89359421
-_symmetry_Int_Tables_number   1
-_chemical_formula_structural   C
-_chemical_formula_sum   C8
-_cell_volume   65.80569172
-_cell_formula_units_Z   8
+data_image0
+_cell_length_a       3.24395
+_cell_length_b       4.81768
+_cell_length_c       4.76802
+_cell_angle_alpha    71.1508
+_cell_angle_beta     71.0522
+_cell_angle_gamma    69.3882
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
 loop_
- _symmetry_equiv_pos_site_id
- _symmetry_equiv_pos_as_xyz
-  1  'x, y, z'
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
 loop_
- _atom_site_type_symbol
- _atom_site_label
- _atom_site_symmetry_multiplicity
- _atom_site_fract_x
- _atom_site_fract_y
- _atom_site_fract_z
- _atom_site_occupancy
-  C  C1  1  0.806946  0.411549  0.451046  1
-  C  C2  1  0.719108  0.154177  0.649351  1
-  C  C3  1  0.552223  0.744380  0.501512  1
-  C  C4  1  0.462313  0.020413  0.231855  1
-  C  C5  1  0.153334  0.356102  0.221493  1
-  C  C6  1  0.126344  0.657547  0.992556  1
-  C  C7  1  0.427800  0.760333  0.817803  1
-  C  C8  1  0.694265  0.907040  0.937000  1
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  C1       1.0000 0.80839  0.43521  0.45687  Biso   1.000  C
+  C2       1.0000 0.59259  0.27673  0.75061  Biso   1.000  C
+  C3       1.0000 0.58338  0.76454  0.46225  Biso   1.000  C
+  C4       1.0000 0.40220  0.98835  0.23840  Biso   1.000  C
+  C5       1.0000 0.17719  0.31767  0.24379  Biso   1.000  C
+  C6       1.0000 0.39299  0.47616  0.95004  Biso   1.000  C
+  C7       1.0000 0.47359  0.76997  0.79155  Biso   1.000  C
+  C8       1.0000 0.51199  0.98291  0.90910  Biso   1.000  C
