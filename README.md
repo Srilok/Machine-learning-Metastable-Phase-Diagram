@@ -6,4 +6,4 @@
 ##### <sup>3</sup> Center for High Pressure Science and Technology Advanced Research, Beijing 100193,P.R. China
 ##### <sup>4</sup> Northwestern Argonne Institute of Science and Engineering, Evanston, IL 60208, United States
 
-Metastable phases identified by our automated workflow described in this [paper](https://arxiv.org/abs/2004.08753)
+Metastable phases identified by our automated workflow described in this [paper](https://www.nature.com/articles/s41467-022-30820-8)
